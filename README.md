@@ -10,7 +10,7 @@ O projeto utiliza **JavaFX** para a interface gráfica, **FXML** para definiçã
 
 ## 📌 Sobre o projeto
 
-O **Message Dispatcher** é uma aplicação desktop criada para simular um sistema de gerenciamento e envio de mensagens.
+O **Disparador de Mensagens** é uma aplicação desktop criada para simular um sistema de gerenciamento e envio de mensagens.
 
 A aplicação permite realizar o cadastro e gerenciamento de usuários e contatos, selecionar múltiplos destinatários e enviar mensagens com diferentes informações, além de consultar o histórico de mensagens.
 
